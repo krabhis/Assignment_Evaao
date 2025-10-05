@@ -64,3 +64,9 @@ npm run dev
 + Import/Export data
 + MongoDB persistence
 + Simple UI design
+
+
+## Screenshots
+
+  <img src="./assets/p1.png" alt="diagram" width="400"/>
+  <img src="./assets/p2.png" alt="diagram" width="400"/>
